@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+covid19-tracker/node_modules
+covid19-tracker/.pnp
+covid19-tracker/.pnp.js
+
+# testing
+covid19-tracker/coverage
+
+# production
+covid19-tracker/build
+
+# misc
+covid19-tracker/.DS_Store
+covid19-tracker/.env.local
+covid19-tracker/.env.development.local
+covid19-tracker/.env.test.local
+covid19-tracker/.env.production.local
+
+covid19-tracker/npm-debug.log*
+covid19-tracker/yarn-debug.log*
+covid19-tracker/yarn-error.log*
