@@ -1,5 +1,5 @@
 # COVID-19-tracker
-This is a COVID-19 tracker app that shows daily updates of COVID-19 patients in your country
+This is a COVID-19 tracker app that shows daily updates of COVID-19 patients in your country, this is a practice project in React.js please follow official sources of information as published in your country.
 
 # Data 
 API: https://covid19.mathdro.id/api  
